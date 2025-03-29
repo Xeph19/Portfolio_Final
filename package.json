@@ -13,7 +13,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@rollup/rollup-linux-x64-gnu": "^4.9.5"
+    "@rollup/rollup-linux-x64-gnu": "^4.9.5",
+    "lucide-react": "^0.344.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.55",
